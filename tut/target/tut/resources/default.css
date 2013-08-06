@@ -1,0 +1,29 @@
+@CHARSET "UTF-8";
+
+.background {
+	margin: 0;
+	padding: 0;
+	background-color: lightGray;
+}
+
+.menuAndContent {
+	width: 1200px;
+	margin: auto;
+	border-color: red;
+	border: 1px;
+}
+
+.menu {
+	border: 1px;
+	border-color: blue;
+}
+
+.top {
+	border: 1px;
+	border-color: black;
+}
+
+.content {
+	border: 1px;
+	border-color: green;
+}
